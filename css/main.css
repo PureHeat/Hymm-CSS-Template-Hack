@@ -1582,7 +1582,7 @@ header .header-logo a {
   text-align: center;
 }
 .home-social-list::before {
-  display: block;
+  /* display: block; */
   content: "";
   width: 2px;
   height: 42px;
